@@ -1,0 +1,5 @@
+# Evitar la conversión automática de archivos binarios
+* binary
+
+# Configuración específica para algunos tipos de archivo
+*.py    linguist-vendored
