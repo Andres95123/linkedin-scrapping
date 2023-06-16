@@ -12,7 +12,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado lo siguiente:
 
 ## Configuración
 
-1. Descarga el WebDriver correspondiente a tu navegador y versión compatible. Asegúrate de colocar el archivo ejecutable en una ubicación accesible desde la línea de comandos o en la ubicación del script.
+1. Descarga el WebDriver correspondiente a tu navegador y versión compatible. Asegúrate de colocar el archivo ejecutable en una ubicación accesible desde la línea de comandos o en la ubicación del script. (Si tu intencion es utilizar la app sin cambiar codigo, descargate Microsoft Edge y descarga el driver de tu version de Edge [Aquí](https://developer.microsoft.com/es-es/microsoft-edge/tools/webdriver/))
 
 2. Instala los requisitos de requirements.txt
 
