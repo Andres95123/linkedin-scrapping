@@ -1,0 +1,4 @@
+beautifulsoup4
+selenium
+openpyxl
+appdirs
